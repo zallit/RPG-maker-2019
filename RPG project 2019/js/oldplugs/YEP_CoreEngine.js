@@ -721,8 +721,8 @@ Yanfly.Core.version = 1.31;
  * ============================================================================
  *
  * Version 1.32:
- * - Reversed the disable for the screen jitter fix from version 1.24. Somehow
- * it came back and I don't know when, but now it needs to go. 
+ * - Reversed the disable for the screen jitter fix. Somehow it came back and I
+ * don't know when, but now it needs to go.
  *
  * Version 1.31:
  * - Added Fallen Angel Olivia's full error message display to the Core Engine
