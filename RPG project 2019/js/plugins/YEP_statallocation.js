@@ -1717,9 +1717,9 @@ Window_AllocationList.prototype.drawItemCost = function(param, x, y, width) {
   var itemCost = data.itemCost.call(this, times);
   if (itemCost <= 0) return width;
   if (itemCost > $gameParty.numItems(item)) {
-    var fmt = '×\\c[25]%1\\c[0]/%2';
+    var fmt = 'Ã—\\c[25]%1\\c[0]/%2';
   } else {
-    var fmt = '×%1/%2';
+    var fmt = 'Ã—%1/%2';
   }
   var amount = Yanfly.Util.toGroup($gameParty.numItems(item));
   var total = fmt.format(Yanfly.Util.toGroup(itemCost), amount);
