@@ -1,0 +1,79 @@
+============================================================
+
+readme.txt
+
+RPG Maker MV Free Resources
+04/15/2016
+
+============================================================
+
+READ THIS CAREFULLY BEFORE INSTALLING OR USING THE RPG MAKER MV FREE RESOURCES
+
+I. Introduction
+
+Thank you very much for downloading our Wednesday Freebies for RPG Maker MV!
+This pack contains additional graphics for your game creation needs. 
+
+------------------------------------------------------------
+
+V. "RPG Maker MV Free Resources" END USER LICENSE AGREEMENT
+
+IMPORTANT, READ CAREFULLY.
+
+PLEASE READ THIS END USER LICENSE AGREEMENT (THE "AGREEMENT") CAREFULLY BEFORE USING THIS RESOURCE PACK. IF YOU (THE "USER") DO NOT AGREE TO THE TERMS, CONDITIONS AND LIMITATIONS OF THIS AGREEMENT, PROMPTLY DELETE THE DIGITAL CONTENT FROM YOUR COMPUTER.
+
+1. Copyright, trademark and other intellectual property rights of RPG Maker MV Free Resources (the "Product") are property of KADOKAWA, INC (the "Company" or "KADOKAWA"), DEGICA Co., LTD (the "Company" or "DEGICA") and third party allowed by the Company. 
+
+2. The graphics included in the Product (the "Resource Pack") may be used with any of KADOKAWA's game development software (include all related titles of "RPG MAKER Series" or "our products") that retains the Company's rights. You cannot use the Resource Pack with other game engines/software. User can create, distribute, or sell their original game by using the Resource Pack only if they meet all the following conditions:  
+
+2.1 Your game must include additional documentation that clearly indicates the use of the Resource Pack and the following copy:
+
+[Copyright](C) 2012 KADOKAWA, INC; DEGICA Co., LTD
+artists Archeia, Thernz, Caz, Personigo
+
+2.2 Solely used for the creation of your game, you can edit, process, and modify the materials contained in the Resource Pack.
+
+2.3 Do not sell, distribute, lease, or transfer the Resource Pack itself (even if the materials were edited, process, or modified by the User). 
+
+3. The Company will bear no responsibility for any damages to the User's computer caused by misuse of the Product. 
+
+4. By using the Product, the User accepts the full terms and takes sole responsibility for use of the Product.
+
+5. The Company will bear no responsibility for any issues and disputes between third parties, regardless of the content, that occur as a result of the creation, distribution, and release of the User's game by using the Product.	
+
+------------------------------------------------------------
+
+Developer
+KADOKAWA, INC
+DEGICA Co., LTD
+
+Artists
+Archeia
+Thernz
+Caz
+Personigo
+
+Publisher
+DEGICA Co., LTD
+
+------------------------------------------------------------
+
+VI. Contact Information
+
+RPG MAKER Customer Support: 
+support@rpgmakerweb.com
+
+*NOTE: We cannot answer any inquiries that are not related to the product and/or how to use the product. 
+
+------------------------------------------------------------
+
+RPG MAKER Official Store:
+http://www.rpgmakerweb.com
+
+------------------------------------------------------------
+
+(C) 2015 KADOKAWA, INC.
+(C) 2015 DEGICA Co., LTD
+
+Microsoft, Windows, Windows Vista, Windows 7 are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or other countries. All other marks, products and company names are the property of their respective owners.
+
